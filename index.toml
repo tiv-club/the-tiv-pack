@@ -5,8 +5,13 @@ file = "config/fabric_loader_dependencies.json"
 hash = "8088099d7ebac6f66e6a8d6ed060ab6ae83b085b9c8866ee8c2687a9d6a31a82"
 
 [[files]]
-file = "config/plugins.json"
+file = "config/jade/plugins.json"
 hash = "227aeb6203d7c27f72d10fafba2de1995a2f2318a4af60d9d0407f90dbfcbe9e"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
 
 [[files]]
 file = "mods/backpack-display.pw.toml"
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/carryon-vs-compat.pw.toml"
 hash = "b3d72da43e10056cef5c15eabeee3fba4fe72bb48c4559ef172f5880dcf69c46"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
