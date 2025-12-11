@@ -5,4 +5,5 @@
 /README.md
 unsup.toml
 unsup.ini
-.DS_Store/
+.DS_Store
+CNAME/
