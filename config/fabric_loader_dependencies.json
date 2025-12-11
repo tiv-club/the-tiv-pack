@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "overrides": {
+        "vlib" : {
+            "-depends": {
+                "valkyrienskies": "IGNORED"
+            }
+        }
+    }
+}

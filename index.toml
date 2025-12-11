@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "8088099d7ebac6f66e6a8d6ed060ab6ae83b085b9c8866ee8c2687a9d6a31a82"
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
