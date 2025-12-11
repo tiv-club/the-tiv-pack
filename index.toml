@@ -5,6 +5,20 @@ file = "config/fabric_loader_dependencies.json"
 hash = "8088099d7ebac6f66e6a8d6ed060ab6ae83b085b9c8866ee8c2687a9d6a31a82"
 
 [[files]]
+file = "config/plugins.json"
+hash = "227aeb6203d7c27f72d10fafba2de1995a2f2318a4af60d9d0407f90dbfcbe9e"
+
+[[files]]
+file = "mods/backpack-display.pw.toml"
+hash = "a6add04c9ff6ab2477239038cb8497ae1e4c19020955447b965c6367e5800408"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
+metafile = true
+
+[[files]]
 file = "mods/blanket.pw.toml"
 hash = "204a6e607eabf19083f9a4f99e7bc33ff9df95d8c77deaba58f67a6a19f8c811"
 metafile = true
@@ -17,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/carryon-vs-compat.pw.toml"
 hash = "b3d72da43e10056cef5c15eabeee3fba4fe72bb48c4559ef172f5880dcf69c46"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
 metafile = true
 
 [[files]]
@@ -40,6 +59,11 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -60,8 +84,18 @@ hash = "cb5d0f9fdc6224769a0339389816936f40e0a61b408e5e05d5088f696a799f37"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "7a3a066a9e6da4873a54bdad10e6749be5d32026decbc83bd4ebe59f60b9f97f"
+metafile = true
+
+[[files]]
 file = "mods/eureka.pw.toml"
 hash = "ab11fc3cffc3cabd73a8b6647fe64a4f3c95b4e35728812d66d1a1703eac4d02"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "21bdbce23d3cef1dca238e5797f4b87b1e3eb44c8c213e51cd73c51bf55cdced"
 metafile = true
 
 [[files]]
@@ -72,6 +106,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
@@ -140,6 +184,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "ad302d4bc503de96528b917401fa6f4652cc03bd2e506912d0e5157ecabe9cbd"
 metafile = true
@@ -155,6 +204,11 @@ hash = "90397481159d6f8c13f811b930a4020c7e24c62e35e3cc3596164d312fb0372c"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
@@ -165,8 +219,8 @@ hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
 metafile = true
 
 [[files]]
-file = "mods/shuttfup.pw.toml"
-hash = "0d3d64a8cc67a1cc8a27293d7f3a880d0630f443879c04106b2e188573e81ebf"
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
@@ -185,8 +239,28 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "6e5a8f947f77a0a9cf18347edd01a08fc725c2ecaa10cf61e6b429a54e50a463"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "fc06b9fc1fc94b5cb163b4240ca64065653534bf36125b71a2c125363b29284c"
 metafile = true
 
 [[files]]
