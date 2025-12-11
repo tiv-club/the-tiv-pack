@@ -1,8 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/main.yml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "CNAME"
+hash = "6a2805726a9df16ed546e5de11645561a37497aca4e29e427616b7770deabe27"
+
+[[files]]
 file = "mods/arsenal.pw.toml"
 hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
+metafile = true
+
+[[files]]
+file = "mods/backported-spears.pw.toml"
+hash = "7c4e3ab42f75a891056e9c9d531af07efec3e7e9c6a5621234c4caf084986be5"
 metafile = true
 
 [[files]]
@@ -21,8 +34,18 @@ hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fade702bcfa866d3b4a3b1d030c31ba9764e98b1585a4a54366f4e4d8373e06c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
@@ -36,8 +59,28 @@ hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "89ed99a0798a5e1300434359762c968536593279493f68b321a565fb1343f75c"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "d68efcc17365557a070fbfe07c1523c041f3c9c41eb637beace220d2c13c849c"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "5beb6ef32d80ab0550baad15f1fd78f2c6168fcce4a18e14e23c47a1cc8ed099"
 metafile = true
 
 [[files]]
@@ -83,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "220290b6585ca56b581de94012e678625aeacc300663113bf848e1872897cb22"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "e17c2c575f2db23bb4e6cb7035093ec67f0c2189e7e3026075794579c6a05fd4"
 metafile = true
 
 [[files]]
