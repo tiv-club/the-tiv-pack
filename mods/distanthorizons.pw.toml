@@ -10,7 +10,7 @@ hash = "33ef25a118872298d546a954bfb625e0b9573286392a4df15a929cfc382bd7224c056bb9
 [option]
 optional = true
 default = false
-description = "Adds LODs to the world allowing you to see further. Not recommended if you do not have the performance for it."
+description = "(THIS CAUSES CRASHES ON MACOS!) Adds LODs to the world allowing you to see further. Not recommended if you do not have the performance for it."
 
 [update]
 [update.modrinth]

@@ -1,0 +1,13 @@
+name = "Feature Recycler"
+filename = "Feature-Recycler-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAzu52kG/versions/w7xDVLS5/Feature-Recycler-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "ae7935c9f94f665c2ed5de09992d145d203cbc59a6155e76fa9f7a43869a2d022203d2ed4217e4a8d28126282f99b511e5b70a53c07417b3e1fe04760bdce6fa"
+
+[update]
+[update.modrinth]
+mod-id = "IAzu52kG"
+version = "w7xDVLS5"
