@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b47e31eb57c8e2164ca312a2287b794b2d812220c8ada4ccadc47cc737b679ce"
+hash = "38052fc03750adddd9bc168de5b7b92bae00fc4a39dbbc5f6982cf119799b40b"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "573e434e52e1cbfaf3bffc2896a5b948ae5c3671402705523442c6d0de36354a"
+hash = "6785da2d5a4037dbd216f0b580d3ed89dd3167e9ac3d75489d3ef7b4d409a933"
 metafile = true
 
 [[files]]

@@ -11,8 +11,3 @@ hash = "cfae8a64a9c69da5ea55af5849adf2d37c1474809fe282e214f2fcc9351d484ea8657cc5
 [update.modrinth]
 mod-id = "MPCX6s5C"
 version = "pm5lGOZk"
-
-[option]
-optional = true
-default = true
-description = "Adds animations for a lot of actions that are missing them. Recommended to disable if you're using a non-vanilla Figura model."

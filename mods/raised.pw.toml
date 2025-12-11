@@ -11,8 +11,3 @@ hash = "992e5f6c4d87cd214ba204c490ebbb57ea259476f13aacbb38239db172b4b0ca668d5e62
 [update.modrinth]
 mod-id = "nCQRBEiR"
 version = "J0KaVWxA"
-
-[option]
-optional = true
-default = false
-description = "Raised your hotbar, and also other UI apart of the modpack."
