@@ -155,6 +155,11 @@ hash = "90397481159d6f8c13f811b930a4020c7e24c62e35e3cc3596164d312fb0372c"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
 metafile = true
