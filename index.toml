@@ -113,11 +113,6 @@ hash = "964a56ef500d320801315eb45687e51e9352f03615506469979875d2fed41760"
 metafile = true
 
 [[files]]
-file = "mods/create-storage-refabricated.pw.toml"
-hash = "5ce7488cfb370633bb32ff6aaf0865930965d020cd467043f595d243698a3255"
-metafile = true
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8e0ab4317f114231fa313af5fc1b5fadf0e8096d712bdc1fd7359077a003d389"
 metafile = true

@@ -1,6 +1,6 @@
 name = "The Tiv Pack"
 author = "tiv"
-version = "0.0.7-dev"
+version = "0.0.7a-dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
