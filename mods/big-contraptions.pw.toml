@@ -1,0 +1,13 @@
+name = "Create: Big Contraptions"
+filename = "bigcontraptions-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jv0UKGOX/versions/IineM2mL/bigcontraptions-1.0.jar"
+hash-format = "sha512"
+hash = "c5f11a54c38ae579a5e387d23a83d2d1481cee9c2f75b4f293790ccd3123755778ea70a7b413540b3e6183afd639dc91201b9be5e4ad2424b8783a53b2ff216b"
+
+[update]
+[update.modrinth]
+mod-id = "jv0UKGOX"
+version = "IineM2mL"
