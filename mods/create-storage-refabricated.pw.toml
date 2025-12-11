@@ -1,0 +1,13 @@
+name = "Create: Storage Refabricated"
+filename = "fxntstorage-refabricated-0.21-1.20.1-FABRIC+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nIppuD0G/versions/alosb8w4/fxntstorage-refabricated-0.21-1.20.1-FABRIC%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "1fe33a2ee529919d8da7c61ec19deb054e37a627bec3ba9906308af2389db256f51ab84f387eff2789b9091978888dab0ff92f15193b7349ea6b72c58a8191ce"
+
+[update]
+[update.modrinth]
+mod-id = "nIppuD0G"
+version = "alosb8w4"

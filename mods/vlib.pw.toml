@@ -1,0 +1,13 @@
+name = "VLib"
+filename = "vlib-1.20.1-0.1.0+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1UmcEMX/versions/HOxwImyh/vlib-1.20.1-0.1.0%2Bfabric.jar"
+hash-format = "sha512"
+hash = "0ca908214c9735265ea5e7574269617e62f2f85ae816418b30c2baef8b9aa9394db93251bb5701b35e07626aa620be1c4b510ae95259d2ee4f347463e735d0f6"
+
+[update]
+[update.modrinth]
+mod-id = "V1UmcEMX"
+version = "HOxwImyh"

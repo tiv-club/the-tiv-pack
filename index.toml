@@ -1,6 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
+metafile = true
+
+[[files]]
+file = "mods/carryon-vs-compat.pw.toml"
+hash = "b3d72da43e10056cef5c15eabeee3fba4fe72bb48c4559ef172f5880dcf69c46"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "964a56ef500d320801315eb45687e51e9352f03615506469979875d2fed41760"
+metafile = true
+
+[[files]]
+file = "mods/create-storage-refabricated.pw.toml"
+hash = "5ce7488cfb370633bb32ff6aaf0865930965d020cd467043f595d243698a3255"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "ab11fc3cffc3cabd73a8b6647fe64a4f3c95b4e35728812d66d1a1703eac4d02"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
+metafile = true
+
+[[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "bd23c86b6d4501003043e31eee93e355beed680a514d8439457bb49823743f40"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -11,6 +61,31 @@ hash = "90397481159d6f8c13f811b930a4020c7e24c62e35e3cc3596164d312fb0372c"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-sails.pw.toml"
+hash = "997474e295ef38cdf0db14100d76e52ccff45a5b6f44063b987a3df4801c5f91"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "220290b6585ca56b581de94012e678625aeacc300663113bf848e1872897cb22"
+metafile = true
+
+[[files]]
+file = "mods/vlib.pw.toml"
+hash = "b0c3a4daa431b23eb39f27f4035556a3fb739a82d1df3894cc75b16da8f1bb4c"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
 metafile = true

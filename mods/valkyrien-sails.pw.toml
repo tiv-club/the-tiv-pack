@@ -1,0 +1,13 @@
+name = "Valkyrien Sails"
+filename = "vs_sails-1.20.1-0.2.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/esFadCt9/versions/5kDUga8P/vs_sails-1.20.1-0.2.3-fabric.jar"
+hash-format = "sha512"
+hash = "fe337a010f1bf22c5b419af29b8efcebabd946b65a4537734b1e6223b23f55ede6a689deb54dab97e8023b45528c419ce5e42d8499ec55cfe4923047f8a31db1"
+
+[update]
+[update.modrinth]
+mod-id = "esFadCt9"
+version = "5kDUga8P"
