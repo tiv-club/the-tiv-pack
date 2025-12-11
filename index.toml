@@ -1,0 +1,20 @@
+hash-format = "sha256"
+
+[[files]]
+file = "CNAME"
+hash = "6a2805726a9df16ed546e5de11645561a37497aca4e29e427616b7770deabe27"
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "90397481159d6f8c13f811b930a4020c7e24c62e35e3cc3596164d312fb0372c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
