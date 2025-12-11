@@ -49,11 +49,6 @@ hash = "bf00fc836ad7fde31173e8babcdf9c78baa32022e88f68872ff6090ed8fe5f36"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-fixes.pw.toml"
-hash = "9f76b957563a81f466be323ae3b8482b0bae291b1f8efaa386cc990c4b87d702"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -171,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "17dca79cbc66e1cebfd26658983f63276468d2a698c25bda943a813f5554d8ee"
 metafile = true
 
 [[files]]
