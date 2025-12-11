@@ -133,6 +133,11 @@ hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "c4b0dd54478b8c1ccf3ef5f0ea435ff7c96ce0ca05c75550afd55f159a571b5e"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
@@ -245,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "90397481159d6f8c13f811b930a4020c7e24c62e35e3cc3596164d312fb0372c"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "540dc04e1d77171d85e9b4bb9835730fb9ba73cf70e2afba070627a89d14c678"
 metafile = true
 
 [[files]]
