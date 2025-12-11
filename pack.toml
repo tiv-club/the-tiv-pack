@@ -1,12 +1,12 @@
 name = "The Tiv Pack"
 author = "tiv"
-version = "0.0.6a-dev"
+version = "0.0.7-dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7ea7e3a340b28799d4fdb4fcb5a28a3bcf87360e42698bf67006e7e652de625d"
+hash = "836b2e42f13470b3b26ec164354da0ab4c39d45d2f98148d9894e3320cad1b0d"
 
 [versions]
 fabric = "0.18.2"

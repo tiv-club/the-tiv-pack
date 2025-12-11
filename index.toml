@@ -13,6 +13,11 @@ file = "config/traverse/biome.json"
 hash = "f1decf4765a70768dac997e5fb8f6ee63751b361bc75571f522d5ba425e35b5e"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ddb73a24312769d0023e70d764db13e2de3cfe271c1e7e7c6ae9bd4e1201cd20"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -20,6 +25,11 @@ metafile = true
 [[files]]
 file = "mods/backpack-display.pw.toml"
 hash = "a6add04c9ff6ab2477239038cb8497ae1e4c19020955447b965c6367e5800408"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "c3617cec16d4e6bf6872db3ccdbe650ed247bda831f1f5a9ef7ae12421777d1a"
 metafile = true
 
 [[files]]
@@ -83,6 +93,16 @@ hash = "3681a4dd6134dc64b5af240379c1f98023b2217fd6af8c08763d3228bad01fbe"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "bf00fc836ad7fde31173e8babcdf9c78baa32022e88f68872ff6090ed8fe5f36"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -95,6 +115,16 @@ metafile = true
 [[files]]
 file = "mods/create-storage-refabricated.pw.toml"
 hash = "5ce7488cfb370633bb32ff6aaf0865930965d020cd467043f595d243698a3255"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "8e0ab4317f114231fa313af5fc1b5fadf0e8096d712bdc1fd7359077a003d389"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fa0ea8b5350e032a6db84de71891129a25a5b8f20065dcab0040d6e8f4d43617"
 metafile = true
 
 [[files]]
@@ -128,6 +158,11 @@ hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
 metafile = true
@@ -143,6 +178,26 @@ hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "3e1c0acfc7477a24b94bf6ae954fa2443602693d7a879ea07a089e6c1c2a78be"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-recoloured.pw.toml"
+hash = "eeb686993eeab4daf934079946966780ba7d367c41316e5febcda85059b4f85e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "7c4c132e1ffb20c72dfc2b9288cffc457df74417b264b83a007f969b323fecff"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "8c16d26d5b9bb03da0982af0d7ff7e2aaba6b91e99ab39e5f5b49fc52b1159cf"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
 metafile = true
@@ -150,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
 metafile = true
 
 [[files]]
@@ -195,6 +255,16 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+hash = "621d313a03c38e6db7709406828c7f5212833757a044884dc8dfc37d1e9462f3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "f6275345ca358025bda3be46bcc29ac3f20ee04ec2e54d200a59ec96cb2630e5"
 metafile = true
 
 [[files]]
@@ -268,6 +338,11 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
 metafile = true
@@ -275,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
 
 [[files]]
@@ -325,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "e260f1729799f726c6508c7e61a8ce7784304e58d55495cbc8823d0103fcfee5"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "7ef1612adfce02572d20a2a9682f35ff4f2b2da50fa7645b8c73a46c108b12a9"
 metafile = true
 
 [[files]]
