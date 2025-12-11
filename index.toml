@@ -84,6 +84,11 @@ hash = "cb5d0f9fdc6224769a0339389816936f40e0a61b408e5e05d5088f696a799f37"
 metafile = true
 
 [[files]]
+file = "mods/enchant-the-rainbow.pw.toml"
+hash = "361a8e66af214e711d4c2321c927ca8b6dde1ad27d694d6a8281a86c291f5915"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "7a3a066a9e6da4873a54bdad10e6749be5d32026decbc83bd4ebe59f60b9f97f"
 metafile = true
