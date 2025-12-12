@@ -118,11 +118,6 @@ hash = "e75530a3514cb2b772047b61711b789a09596ac417147d7431cf2a803099f9e8"
 metafile = true
 
 [[files]]
-file = "mods/c2me.pw.toml"
-hash = "99bf8f34b6bff81c977ea6736c58b6df564a7e9ae684fe3ad25e3b5fc91a6c74"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "ec2c437fe50a3f8ea6077215974ba9f769cb94eb29432156cbbe43137a74013f"
 metafile = true
