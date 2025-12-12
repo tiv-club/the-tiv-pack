@@ -238,6 +238,10 @@ hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
+file = "mods/create_interactive-1.1.1-beta.4_1.20.1-fabric.jar"
+hash = "21470e17e56ccbcfb6823b8c31bdf256c9538ad3d7a65c71d5adf2cc06d1b5da"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8e0ab4317f114231fa313af5fc1b5fadf0e8096d712bdc1fd7359077a003d389"
 metafile = true
