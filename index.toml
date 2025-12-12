@@ -288,11 +288,6 @@ hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "acc200bbb46db3c923a0628ea17fd3a4b7f2e634005c0903e78b2d3b1add2e71"
-metafile = true
-
-[[files]]
 file = "mods/early-loading-screen.pw.toml"
 hash = "cb5d0f9fdc6224769a0339389816936f40e0a61b408e5e05d5088f696a799f37"
 metafile = true
