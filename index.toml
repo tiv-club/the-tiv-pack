@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
-hash = "800bc655ee71798c376308cf72d61aefdf572d7d678dd763178078db77f51a6d"
+hash = "47110af482e32af37b0b79bf9758f736d384ff7f0a6e3b18de183d3ee9dd1794"
 metafile = true
 
 [[files]]
