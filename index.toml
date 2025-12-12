@@ -183,10 +183,6 @@ hash = "800bc655ee71798c376308cf72d61aefdf572d7d678dd763178078db77f51a6d"
 metafile = true
 
 [[files]]
-file = "mods/copycats-3.0.2+mc.1.20.1-fabric.jar"
-hash = "d04e2f6b16d0eaae8366d97ecf805b4a994b9ff67f8fc2f8df17c90139d684ed"
-
-[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "3681a4dd6134dc64b5af240379c1f98023b2217fd6af8c08763d3228bad01fbe"
 metafile = true
