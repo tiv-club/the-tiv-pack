@@ -238,11 +238,6 @@ hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
-file = "mods/create-framed.pw.toml"
-hash = "910c1943ca060ea913fec420c5a59c4d0fda1e3f783488f5d00bd9082f6b3524"
-metafile = true
-
-[[files]]
 file = "mods/create-renewable-brass.pw.toml"
 hash = "6da202f121d90a60e3c428eff33f38cde6ae36e8b97ebf16579d3ec69272ceb0"
 metafile = true
