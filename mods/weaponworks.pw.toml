@@ -1,0 +1,13 @@
+name = "Weaponworks"
+filename = "weaponworks-1.4.1-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rl1xUJYc/versions/hdiUlwW2/weaponworks-1.4.1-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "54a3737be17e01cf49813ef4d6e81484ac6823da17f8c43543d0f47a6bcb1e85e068e8578b27c30059c246abd229b7b564159e49cb70bfb7e503051ae1586aa3"
+
+[update]
+[update.modrinth]
+mod-id = "rl1xUJYc"
+version = "hdiUlwW2"

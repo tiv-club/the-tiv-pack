@@ -1,0 +1,13 @@
+name = "Petal"
+filename = "petal-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IupWkJpE/versions/JjdU2tXH/petal-1.0.1.jar"
+hash-format = "sha512"
+hash = "105cf6042d34e9e3b3d30962f160fe151085ebcc43f207fb683da5b0f6967705b36d288103b12b64f65abf663e749131c6c3898dbffbcaff1671f054022a31d4"
+
+[update]
+[update.modrinth]
+mod-id = "IupWkJpE"
+version = "JjdU2tXH"
