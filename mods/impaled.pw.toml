@@ -1,8 +1,0 @@
-name = "Impaled"
-filename = "impaled-1.2.0.jar"
-side = "both"
-
-[download]
-url = "http://modpack.tiv.fishing/external_mods/impaled-1.2.0.jar"
-hash-format = "sha256"
-hash = "60b42ed1821833066fba0cbc6823559d048a377256d5bbdc7cc6e59b05fa5046"
