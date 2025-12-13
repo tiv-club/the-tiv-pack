@@ -33,6 +33,10 @@ file = "config/wakes.json"
 hash = "d395ff1ba07a53c589d6928efc9d713d9b26503a9499cdd63f4cbec7f2a2850b"
 
 [[files]]
+file = "external_mods/create_interactive-1.1.1-beta.4_1.20.1-fabric.jar"
+hash = "b54295633259fe936a99017f73323eb803d981729baac08526f542cccfd0aeef"
+
+[[files]]
 file = "external_mods/figura-symlink-fix-1.0.0.jar"
 hash = "399f60df097dd5c8c4637fac19db6fd1ccbb02e4cb47c3c6ca57592d5b16b886"
 
@@ -243,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
+file = "mods/create-interactive.pw.toml"
+hash = "b880e62c4e63d4e8fe93dee182041a217af3418998127e87c22f5d4d3e3ea95e"
 metafile = true
 
 [[files]]
