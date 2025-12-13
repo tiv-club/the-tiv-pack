@@ -1,2 +1,86 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "e28be9e32294f80bf7be78a1eca5ad0cdc73e2fa636f9f0561d746b4fd2a1fe5"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "77d59ac7bb40c00032d68d45d777e8c1c0dc22596afe0c84572104a67dabb1d5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "3940f3f6a2748dd478bc02751fe36c22c1c97e6d32b08c35f0c2997100c6393e"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-alpine-whispers.pw.toml"
+hash = "675f38f3fdfde55fa8992e56420ed766c6b8e3b3ddc4ef2f7391b8d9c3bcef5b"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+hash = "61cebf1a641d37299e25384dc96bdd3d2097e3d8098f05335fc8395d27a0b43c"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+hash = "9104447bea07fcd2d5c9fd86936fc38e1f925920128b2745e4cc507be9b1d36f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "067eccf8c3c3f9fd1f3c9657f9ca7dffafdbaaf74e2fdc7623d84e19ee5ea728"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "f486a2ee826743a4580024d2a585527e9f2faca764cb7626c98d0544d701d477"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "33ddabb7c45810fc538e82edcc4da52f3c5aaac887df5b301c265f0dd47cf8aa"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "f9d6066af451fea354df2295293ee2ffd82b76c3707f6b548dbaf52886975c17"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
