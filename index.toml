@@ -230,11 +230,6 @@ hash = "e52ce0c2e60036222503ea4fb4a01b334ded56fc51e0153741998dd80ac65011"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "9c9569fb2b1cc7d5facf1ceecc7a1eeff2f253e9f48468a95d72770b01189e16"
-metafile = true
-
-[[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "3da451285a6038ada76b68593c9de46ab5bd1fbdb452b9e3a4d2d91e5dd8cb13"
 metafile = true
