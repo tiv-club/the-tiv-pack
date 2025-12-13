@@ -410,11 +410,6 @@ hash = "ebf5358b8c41746839526ada7f86d0ff61e74d8cc885bd1066771f46c5e0bfce"
 metafile = true
 
 [[files]]
-file = "mods/figura-sym-link-fixer.pw.toml"
-hash = "03674bd82c75c786e348ce94077a19ab0636a78a7fe5cc0290e8feff31533c9d"
-metafile = true
-
-[[files]]
 file = "mods/figura.pw.toml"
 hash = "c4b0dd54478b8c1ccf3ef5f0ea435ff7c96ce0ca05c75550afd55f159a571b5e"
 metafile = true
