@@ -33,6 +33,14 @@ file = "config/wakes.json"
 hash = "d395ff1ba07a53c589d6928efc9d713d9b26503a9499cdd63f4cbec7f2a2850b"
 
 [[files]]
+file = "external_mods/figura-symlink-fix-1.0.0.jar"
+hash = "399f60df097dd5c8c4637fac19db6fd1ccbb02e4cb47c3c6ca57592d5b16b886"
+
+[[files]]
+file = "external_mods/impaled-1.2.0.jar"
+hash = "60b42ed1821833066fba0cbc6823559d048a377256d5bbdc7cc6e59b05fa5046"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "108c035c32a20c623bb13c26c8a7a37426f3d50495273fb1e1cb5e9f59e52d8f"
 metafile = true
@@ -223,6 +231,11 @@ hash = "e52ce0c2e60036222503ea4fb4a01b334ded56fc51e0153741998dd80ac65011"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "9c9569fb2b1cc7d5facf1ceecc7a1eeff2f253e9f48468a95d72770b01189e16"
+metafile = true
+
+[[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "3da451285a6038ada76b68593c9de46ab5bd1fbdb452b9e3a4d2d91e5dd8cb13"
 metafile = true
@@ -280,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
 metafile = true
 
 [[files]]
@@ -343,11 +361,6 @@ hash = "fade702bcfa866d3b4a3b1d030c31ba9764e98b1585a4a54366f4e4d8373e06c"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "ab11fc3cffc3cabd73a8b6647fe64a4f3c95b4e35728812d66d1a1703eac4d02"
-metafile = true
-
-[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "21bdbce23d3cef1dca238e5797f4b87b1e3eb44c8c213e51cd73c51bf55cdced"
 metafile = true
@@ -386,10 +399,6 @@ metafile = true
 file = "mods/feature-recycler.pw.toml"
 hash = "ebf5358b8c41746839526ada7f86d0ff61e74d8cc885bd1066771f46c5e0bfce"
 metafile = true
-
-[[files]]
-file = "mods/figura-symlink-fix-1.0.0.jar"
-hash = "399f60df097dd5c8c4637fac19db6fd1ccbb02e4cb47c3c6ca57592d5b16b886"
 
 [[files]]
 file = "mods/figura.pw.toml"
@@ -475,10 +484,6 @@ metafile = true
 file = "mods/immediatelyfast.pw.toml"
 hash = "d9d01681616a8bdb45bbdd0a053b87153bbb77a5ef997325be0b3dc10b7f8979"
 metafile = true
-
-[[files]]
-file = "mods/impaled-1.2.0.jar"
-hash = "60b42ed1821833066fba0cbc6823559d048a377256d5bbdc7cc6e59b05fa5046"
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -728,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "8283001de6699f5d588e4f0105e4e0e38b26ecde6cccf372372c1f0e698275c2"
 metafile = true
 
 [[files]]

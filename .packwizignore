@@ -7,3 +7,4 @@ unsup.toml
 unsup.ini
 DS_Store
 CNAME
+/*.external_mods
