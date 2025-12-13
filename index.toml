@@ -525,11 +525,6 @@ hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
 metafile = true
 
 [[files]]
-file = "mods/jade-vs.pw.toml"
-hash = "df0c3d7ec59033d2fd944783f73b2bcae09765292d19259781ccb0352d2a4eb4"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -867,11 +862,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "f9dc092528290f0e8034fa9c8cbe25ba1dc271aab69aaf1045336a20406d0bc6"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "220290b6585ca56b581de94012e678625aeacc300663113bf848e1872897cb22"
 metafile = true
 
 [[files]]
