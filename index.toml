@@ -14,7 +14,7 @@ hash = "54c237a92f956cf4483c72f71de125047ab690c09844ce1ce88c00fe553e73ca"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "bf0d2dc53c71215e560da743e37da28c83873bc0929cf6bbac07790866bd01a8"
+hash = "7e86f07ecf2664db55cf5e109beb1beecb3c02bef70d13729453aa02ea630fb0"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -95,11 +95,6 @@ hash = "a6add04c9ff6ab2477239038cb8497ae1e4c19020955447b965c6367e5800408"
 metafile = true
 
 [[files]]
-file = "mods/backported-spears.pw.toml"
-hash = "7c4e3ab42f75a891056e9c9d531af07efec3e7e9c6a5621234c4caf084986be5"
-metafile = true
-
-[[files]]
 file = "mods/beautiful-campfires.pw.toml"
 hash = "04c7070a66d58d53197971143057ac2ec3b9470a40a67bf80f8163ec3e517f7e"
 metafile = true
@@ -137,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
+metafile = true
+
+[[files]]
+file = "mods/carryon-vs-compat.pw.toml"
+hash = "b3d72da43e10056cef5c15eabeee3fba4fe72bb48c4559ef172f5880dcf69c46"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-interactive.pw.toml"
-hash = "b880e62c4e63d4e8fe93dee182041a217af3418998127e87c22f5d4d3e3ea95e"
+hash = "e5d01d113f4206ced30e3bf88e46e817ce0ff5a6f9482a92c377db057d5bede5"
 metafile = true
 
 [[files]]
@@ -517,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
+metafile = true
+
+[[files]]
+file = "mods/jade-vs.pw.toml"
+hash = "df0c3d7ec59033d2fd944783f73b2bcae09765292d19259781ccb0352d2a4eb4"
 metafile = true
 
 [[files]]
@@ -857,6 +862,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "f9dc092528290f0e8034fa9c8cbe25ba1dc271aab69aaf1045336a20406d0bc6"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "220290b6585ca56b581de94012e678625aeacc300663113bf848e1872897cb22"
 metafile = true
 
 [[files]]

@@ -18,8 +18,6 @@
   "blacklisted_items": [
     "!adorn:.*_fence",
     "!weaponworks:.*_spear",
-    "simplyswords:iron_spear",
-    "simplyswords:gold_spear",
     "supplementaries:faucet",
     "!supplementaries:.*_pancakes",
     "supplementaries:quiver"

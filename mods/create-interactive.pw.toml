@@ -1,6 +1,5 @@
 name = "Create: Interactive"
 filename = "create_interactive-1.1.1-beta.4_1.20.1-fabric.jar"
-side = "both"
 
 [download]
 url = "http://modpack.tiv.fishing/external_mods/create_interactive-1.1.1-beta.4_1.20.1-fabric.jar"
