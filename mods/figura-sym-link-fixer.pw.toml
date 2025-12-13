@@ -1,0 +1,13 @@
+name = "Figura Sym Link Fixer"
+filename = "figura-symlink-fix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "http://modpack.tiv.fishing/external_mods/figura-symlink-fix-1.0.0.jar"
+hash-format = "sha256"
+hash = "399f60df097dd5c8c4637fac19db6fd1ccbb02e4cb47c3c6ca57592d5b16b886"
+
+[option]
+optional = true
+default = false
+description = "Meant for people who want to remove the sym-link restriction of Figura. Don't install if you don't know what it does."
