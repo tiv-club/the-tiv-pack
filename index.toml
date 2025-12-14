@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "20fc2b14d6e03be4f8f7513f70b897e4207973972e2a670fff6e82099702285c"
+hash = "2d3e485bfc05c04236ece0edd1df0861912f2bd80feba23b6ac0f40f813c21b1"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -27,6 +27,21 @@ hash = "8e091b4c5d52f8eafb4ee55a551d05f41d42a33a6c559920dbe0c1a1d324c55e"
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/asahi.pw.toml"
+hash = "08f516419e7401f36096f7081fd01e1dbc80741a95c79ddc90686cb47ea2ae8a"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "47ca6d7fe185e6e773347e62863a49ff05c0c7b48e026a97ec6dde3e1fe1e7cc"
 metafile = true
 
 [[files]]
@@ -145,6 +160,11 @@ hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "5592a8c0d97106286f29cf1c67a5b8979265a7b22fc3ccefd4f7ff8bc2b77ddc"
 metafile = true
@@ -252,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
+file = "mods/rounded_mod.pw.toml"
+hash = "13ff90cba34f522e2f0dce36bde8a0ca487da3f7fbcffcf9e31b84efdaa78a18"
 metafile = true
 
 [[files]]
