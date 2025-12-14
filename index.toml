@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "a763d23587ffe045e02581e425c00406939c68bb33502c4fe67af5c5da4c9b96"
+hash = "20fc2b14d6e03be4f8f7513f70b897e4207973972e2a670fff6e82099702285c"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "11c4ac6932c14f3ad5a2c63d7f39eee1e9a2a91ffc079d5bd917c9aa381abdfb"
+hash = "0580a44f77a6e88c906bce984b369ca757a0a73062203e9ce1a144544ede9c8a"
 metafile = true
 
 [[files]]

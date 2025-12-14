@@ -7,7 +7,7 @@
   //   - They are json strings, so you need to separate each
   //     entry with a comma, except the last
   //   - If you start an entry with !, it will be treated as a regular expression
-  //     Example: "!minecraft:.*_sword" to disable all swords
+  //     Example: "!minecraft:.*_sword" to disable all swordsss
   //  
   // -----------------------------------------------------------
   // Do not touch this
@@ -16,7 +16,7 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "!sophisticatedstorage:.*limited",
+    "!sophisticatedstorage:.*_limited",
     "!kawaiidishes:.*_cake",
     "!kawaiidishes:.*_slice",
     "!kawaiidishes:.*_pie",
