@@ -1,13 +1,16 @@
 name = "The Tiv Pack"
 author = "tiv"
-version = "0.0.2@dev"
+version = "0.0.5@dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c543bee940d4d3d81cae3b9cafbdc16eb2088a5cc5be58ea6191de3d941518ab"
+hash = "d76891122b5da9686d598937bd01bd4ee45ef8940b00c117f126b5718be33aad"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.216"
+
+[options]
+acceptable-game-versions = ["Fabric"]

@@ -1,0 +1,13 @@
+name = "Crystalline"
+filename = "crystaline-1.21.1_2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/inf45z9L/versions/qyiyfP0d/crystaline-1.21.1_2.0.0.jar"
+hash-format = "sha512"
+hash = "2c6f82d83703f29e44ea60ff630b2c3f7d29d692f242bc38cb3b9c3a6b44c4dca73d6ba5acca41d2b9cf2123b393475c62fad8dde2485fdfd522e6bbf8737f92"
+
+[update]
+[update.modrinth]
+mod-id = "inf45z9L"
+version = "qyiyfP0d"
