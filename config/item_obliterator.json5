@@ -16,7 +16,7 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "!sophisticatedstorage:.*limited"
+    "!sophisticatedstorage:.*limited",
     "!kawaiidishes:.*_cake",
     "!kawaiidishes:.*_slice",
     "!kawaiidishes:.*_pie",

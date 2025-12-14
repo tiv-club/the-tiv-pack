@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "bf54e9a84db899f5c81ddc6875e7aaf792800b3efa20fffa953e66a50dcefa56"
+hash = "a763d23587ffe045e02581e425c00406939c68bb33502c4fe67af5c5da4c9b96"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
