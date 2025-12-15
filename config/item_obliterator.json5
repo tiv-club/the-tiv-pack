@@ -63,7 +63,13 @@
     "kawaiidishes:coffee_machine",
     "kawaiidishes:ice_cream_maker",
     "kawaiidishes:cherry",
-    "kawaiidishes:coffee_berries"
+    "kawaiidishes:coffee_berries",
+    "!farmersdelight:.*_tomato",
+    "farmersdelight:tomato_sauce",
+    "farmersdelight:tomato_crate",
+    "farmersdelight:tomato_seeds",
+    "farmersdelight:tomato",
+    "farmersdelight:wild_tomatoes"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
