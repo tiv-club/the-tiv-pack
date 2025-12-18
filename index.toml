@@ -94,32 +94,37 @@ metafile = true
 
 [[files]]
 file = "mods/bundled_.pw.toml"
-hash = "692ef1e0ab431738041ca28917381f6cb44e31d1be2d10631f45da969a7905ad"
+hash = "0ab032a5ecd0385858fe53ea3b6e40304d0edcf68466ce686665de45eba39abb"
 metafile = true
 
 [[files]]
 file = "mods/climate-rivers.pw.toml"
-hash = "fa439e7470e236919bd24b82776c17a6d9900c86c590e7fec1436221edff4f3d"
+hash = "763125b743e375904c81af45f8702b6d6a5b90b5dca1c34f1f77338b75444488"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c78021d923ba3e0dd2a4060b4fa4addd343974313cf3278f9e36359e903f442c"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "3a580859d853db6dfc01b543514b4760aca07948e67c2f9e620e1c427a8ba8cf"
+hash = "44f9462f2bdb7f3254ef7d7639271159b8b2dd0deffb902d5425e883a38b35ca"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "43f3d0de5227287b3ea9d37ba9602d90dcba35f87a858f44ab89da2615302e35"
+hash = "934d5afe2c8d68e991a5e24955c35abde9511a466ab62b34485363ad3f4dc43b"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "0b79df1b70eb940f4dd77b0ed1ccb28a00a6ccca10839c71a21d1d3e37b0e71d"
+hash = "aa242da373359065cb62d8e1094e2f17b456f3ea300db145896cf6c6aae43101"
 metafile = true
 
 [[files]]
@@ -139,22 +144,22 @@ metafile = true
 
 [[files]]
 file = "mods/crag.pw.toml"
-hash = "a2e1eff68841614bbf6553c94deaa4bf1d81f8a0e7a82a2687df9c737a46b2ac"
+hash = "8c652ade823c6226c770a275f94c04b41f0a98a4689ebb226f6edffe29c2648c"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
 file = "mods/cut-through.pw.toml"
-hash = "766a7b228df5aaa70408580f2f30ade16dac67e33dc45183fac42de3301a2492"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
 file = "mods/display-delight.pw.toml"
-hash = "da0c8c2a53f0cca153cab0a4ff146033dc0c6aa782ace99a2edd12824ebde75e"
+hash = "28f531c7efc9e5257235adcb19913ed278f3bc76a36326f28d9fb9303df9e4de"
 metafile = true
 
 [[files]]
@@ -389,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a4a26382991e10fa067c2bd8bbeb754ced41c2cfaedb54967c192986a2837e23"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
@@ -464,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "f114030e6984e30307fc43e37ec812c915aed7f64717d7b364dd84008e045fe4"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
