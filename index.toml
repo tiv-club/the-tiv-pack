@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b4b723e8c39b3737bd276678989e3253a576438155bcef89a4b62ee6947dd301"
+hash = "6ace43d76e69d8c9b2aea3748d896ae9d4d484d786b503daa2a4f9a40e5cc7b4"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "95886f73121a490ab360dac8e99f260fb0346048e86475c658ed44ddd399f09e"
+hash = "95f4216d9f5c047bf95289850d00897c93479ea430bd211040b56687e1a2f8f9"
 metafile = true
 
 [[files]]
