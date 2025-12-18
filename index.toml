@@ -9,6 +9,10 @@ file = "config/natures_spirit-common.toml"
 hash = "4cb50915ad71e203f4c89b2a020c386983f0c086a15bd05cc790371cc7ae6da2"
 
 [[files]]
+file = "config/rusticdelight-common.toml"
+hash = "be487e5eb7f40d1e8f17a226a77df208350d614d72cd478b7ed39c603793fffc"
+
+[[files]]
 file = "config/subtle_effects/blocks.toml"
 hash = "b27504e1d15c1d4e096bd080f44bc420d2002eca50ecc87379e11339ddc76a9c"
 
