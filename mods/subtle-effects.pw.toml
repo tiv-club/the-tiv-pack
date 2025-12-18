@@ -11,8 +11,3 @@ hash = "507e145249aa5eb5ddb1b97f9e48084219ba81d2b97f5b7dc5e6a72b368f6dbeaf1c521b
 [update.modrinth]
 mod-id = "4q8UOK1d"
 version = "conRdzcK"
-
-[option]
-optional = true
-default = true
-description = "Adds more effects to the game, that are, of course, subtle."
