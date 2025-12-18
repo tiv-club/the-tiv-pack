@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "87faa644e1e199e78f12a15ef97b29439dcfeb4eed6a15f09c849af3d24c5e62"
+hash = "47ca6d7fe185e6e773347e62863a49ff05c0c7b48e026a97ec6dde3e1fe1e7cc"
 metafile = true
 
 [[files]]
