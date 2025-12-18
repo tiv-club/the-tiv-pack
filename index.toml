@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/asahi.pw.toml"
-hash = "e46d731eb82ec440b4ee81b1c67826faed87b459c711935c31732b5a8176ebd3"
+hash = "08f516419e7401f36096f7081fd01e1dbc80741a95c79ddc90686cb47ea2ae8a"
 metafile = true
 
 [[files]]
