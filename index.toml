@@ -349,6 +349,11 @@ hash = "4ab60057dd05713d6b8e390b49c8f3d80c3b80f87054ca1a220d475b314d1e50"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "98e2cc1f476858e0e1549cd13e7069a6a379da2588d71f5fc151d3f2d4a20485"
+metafile = true
+
+[[files]]
 file = "mods/morepaths.pw.toml"
 hash = "427c526a1fcd744a5c3aad56fa266928a040754510b4083fcb09cc142cec190f"
 metafile = true
