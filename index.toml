@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "8aceae6e8a08c6b2124d0ade53765d9a96287f4bc811ca6ce31b5c7cf3c6d045"
+hash = "1cd07d3e727529bf721857b962eb08184f65e89f47112289b5917726f4d57588"
 
 [[files]]
 file = "mods/accessories.pw.toml"
