@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -299,32 +299,32 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-alpine-whispers.pw.toml"
-hash = "da7ae6962d7b929b34bb2e05dc9423cdad08366c3d02ad09cd5fb0b82e6ed7a0"
+hash = "675f38f3fdfde55fa8992e56420ed766c6b8e3b3ddc4ef2f7391b8d9c3bcef5b"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
-hash = "363db17d5ec8d103d13e861d0629aac376f3bca5a5daa94b70b4b761b0a49696"
+hash = "61cebf1a641d37299e25384dc96bdd3d2097e3d8098f05335fc8395d27a0b43c"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
-hash = "ba5d2bcb0081ffa1042a051e0d4830b0d8f84c0b12c9a51c232206723cbd721f"
+hash = "067eccf8c3c3f9fd1f3c9657f9ca7dffafdbaaf74e2fdc7623d84e19ee5ea728"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "8c4b89a9be0f84a56050c7a24b3d3be219d6d62b710479c5bb8ff3ec12587f8c"
+hash = "f486a2ee826743a4580024d2a585527e9f2faca764cb7626c98d0544d701d477"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-herbalbrews.pw.toml"
-hash = "aad764bd428196a91a086c4f982f42eb0a628513f9869b2984d4b919ee655b0c"
+hash = "33ddabb7c45810fc538e82edcc4da52f3c5aaac887df5b301c265f0dd47cf8aa"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
-hash = "bcf3c950cba1fe6c0ebf4f26f2ab3440b87e1e89dc21ec51776be1cf0e186559"
+hash = "f9d6066af451fea354df2295293ee2ffd82b76c3707f6b548dbaf52886975c17"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b98744192d8b63a91361eb7bdec29a03c2cb95fc700b879826c27b9dc7af28ec"
+hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
 
 [[files]]
@@ -344,22 +344,22 @@ metafile = true
 
 [[files]]
 file = "mods/morepaths.pw.toml"
-hash = "56e1c2a9389565ce734d4ca0a02894088664093cf999f86703d3dd2ffbb9fa77"
+hash = "427c526a1fcd744a5c3aad56fa266928a040754510b4083fcb09cc142cec190f"
 metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "f4bbb9a6169524865e0a82dee3d7a11a5ed2bf133f0d5b730d63a28563a18f7d"
+hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
 metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "5e4854ac1c7932f8526dddf2ff8540f19748fe70f3ed678afd10245cd57b2e4c"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "679f984561d6e115c50bcd6d190a699ddefbf9c00e140ebb2816ace9ab681706"
+hash = "b4b723e8c39b3737bd276678989e3253a576438155bcef89a4b62ee6947dd301"
 metafile = true
 
 [[files]]
@@ -369,12 +369,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "08f8f358b425d2530ed5bba70eee9e055b1f9f58f7a94ea5435def3968c88466"
+hash = "95886f73121a490ab360dac8e99f260fb0346048e86475c658ed44ddd399f09e"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "719c46cbc2f422f4be2af849141b71604f5ad02b30317a349537f744860adbf8"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "5cd30923f8e867bc3a93b84d2c5853c9b6247d8287d276b993ad56629ebb07e1"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
