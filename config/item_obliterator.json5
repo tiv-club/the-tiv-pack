@@ -45,7 +45,8 @@
     "farmersdelight:tomato_crate",
     "farmersdelight:tomato_seeds",
     "farmersdelight:tomato",
-    "farmersdelight:wild_tomatoes"
+    "farmersdelight:wild_tomatoes",
+    "example:example_item"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
