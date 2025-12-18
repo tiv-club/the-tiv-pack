@@ -5,6 +5,30 @@ file = "config/item_obliterator.json5"
 hash = "1cd07d3e727529bf721857b962eb08184f65e89f47112289b5917726f4d57588"
 
 [[files]]
+file = "config/natures_spirit-common.toml"
+hash = "4cb50915ad71e203f4c89b2a020c386983f0c086a15bd05cc790371cc7ae6da2"
+
+[[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "b27504e1d15c1d4e096bd080f44bc420d2002eca50ecc87379e11339ddc76a9c"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "950875604120c720ecba163a5a95b2a44db94ddbd1eb486f537388cc3ac79e47"
+
+[[files]]
+file = "config/subtle_effects/environment.toml"
+hash = "31ea2783b395c5d9b7dde5d05ef1fd42e9191843d7bdcf3f6591232d88fb7611"
+
+[[files]]
+file = "config/subtle_effects/general.toml"
+hash = "ff2c27725362fb1c975aceb4000f42919f8906aacf709f172f4707eb3b73f6c0"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "a9cb0f5f64b9803378a249955c8bd548db1454f589f60db18a1d603c703b2e74"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
