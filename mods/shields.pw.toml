@@ -1,0 +1,13 @@
+name = "Extra Shields"
+filename = "ExtraShields-1.2.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GPVR65Ju/versions/nqZ7d2u4/ExtraShields-1.2.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "14c9b11cc8434276e598319e08d627093ac6aedf2878ff5070529ba0b2732ff713cca4acacc7ee23d73e1d405a67abf508e1b961e7aa4788598fbfa97a8faf6a"
+
+[update]
+[update.modrinth]
+mod-id = "GPVR65Ju"
+version = "nqZ7d2u4"
