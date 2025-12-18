@@ -11,8 +11,3 @@ hash = "dbd8caa967f2537a61e4a8d199e6a55f27418db521d8a11f1aa77e1dcc02ea340f5077b1
 [update.modrinth]
 mod-id = "Xh8hkQmD"
 version = "HZlLCOct"
-
-[option]
-optional = true
-default = true
-description = "Adds better biome blending to make things such as water/grass blending smoother. Optional incase you're weird."
