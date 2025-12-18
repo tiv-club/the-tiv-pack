@@ -56,7 +56,7 @@
 	has_stratified_desert = true
 	has_blooming_dunes = true
 	has_lively_dunes = true
-	has_drylands = true
+	has_drylands = false
 	has_wooded_drylands = true
 	has_xeric_plains = true
 	has_white_cliffs = true

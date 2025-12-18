@@ -3,7 +3,7 @@ version = 0
 biomeColorRain = true
 
 [biomes]
-biomeParticlesRadius = 32
+biomeParticlesRadius = 33
 mushroomSporeBiomes = [
     "minecraft:mushroom_fields"
 ]

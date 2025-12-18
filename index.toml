@@ -2,35 +2,31 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "043c8fc228154d6daa56c884bbecff36c99d06d49d48552fa2829d7b80bd1b2a"
-
-[[files]]
-file = "config/kawaiidishes-server.toml"
-hash = "25307aaedc6b26d3f8ffc3c27b7b12d8252024fe6ffd7b876ad404574b2cfdbb"
+hash = "e56649aa136918e6b2b5e0c46bd850c6a39642d086c08dec6a8b0843e8b74e65"
 
 [[files]]
 file = "config/natures_spirit-common.toml"
-hash = "4cb50915ad71e203f4c89b2a020c386983f0c086a15bd05cc790371cc7ae6da2"
+hash = "98875cfbaa64b704dfb654693fd1d8bcafd8da2e017f0ecf20f600660194a008"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
-hash = "b27504e1d15c1d4e096bd080f44bc420d2002eca50ecc87379e11339ddc76a9c"
+hash = "3dc571badd5407af45aca457e88784697d7ee00f07a6780cfc5b3164b0dfd2a9"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "950875604120c720ecba163a5a95b2a44db94ddbd1eb486f537388cc3ac79e47"
+hash = "7c7bc3e99cdc8e2b4a9a5ea34b27a176906766078dd68993fe92462a4713162f"
 
 [[files]]
 file = "config/subtle_effects/environment.toml"
-hash = "31ea2783b395c5d9b7dde5d05ef1fd42e9191843d7bdcf3f6591232d88fb7611"
+hash = "74bab897773f727272883ca494b966151aea0e936de3481cb9c1867da255dbbd"
 
 [[files]]
 file = "config/subtle_effects/general.toml"
-hash = "ff2c27725362fb1c975aceb4000f42919f8906aacf709f172f4707eb3b73f6c0"
+hash = "a8fa65ab8a4315754edd6e3e8003e25bdc862a396921f98a26cf67bd5b493eac"
 
 [[files]]
 file = "config/subtle_effects/items.toml"
-hash = "a9cb0f5f64b9803378a249955c8bd548db1454f589f60db18a1d603c703b2e74"
+hash = "781094ebe981914756236d2ff9a1564177cf989f0938791fa6b793efe84271fe"
 
 [[files]]
 file = "mods/accessories.pw.toml"
