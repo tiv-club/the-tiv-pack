@@ -1,12 +1,12 @@
 name = "The Tiv Pack"
 author = "tiv"
-version = "0.0.9@dev"
+version = "0.0.8@dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "19e8f867361b28a1367660c3f248ce6d518d7316418b0319b6e4600889160448"
+hash = "2fa891966f8cd84e9ed093052e095bbe4c3f3c5bdd9efe112fdcdd1c0af44954"
 
 [versions]
 minecraft = "1.21.1"
