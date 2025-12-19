@@ -1,0 +1,13 @@
+name = "Client Double Doors"
+filename = "clientdoubledoors-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oEJ7tKad/versions/bqA6XvYO/clientdoubledoors-1.0.0.jar"
+hash-format = "sha512"
+hash = "57a57a8b129e0428493151aed1245c54e16f48b03f9a24ed5fe2d12e8caac60b82af453d558a65bad10dc02d35d9305e5a5100a4dc1cb4a2b2230a635f6b00b8"
+
+[update]
+[update.modrinth]
+mod-id = "oEJ7tKad"
+version = "bqA6XvYO"

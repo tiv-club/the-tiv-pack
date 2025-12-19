@@ -46,7 +46,10 @@
     "farmersdelight:tomato_seeds",
     "farmersdelight:tomato",
     "farmersdelight:wild_tomatoes",
-    "example:example_item"
+    "create_sa:brass_jetpack_chestplate",
+    "create_sa:andesite_jetpack_chestplate",
+    "create_sa:copper_jetpack_chesplate",
+    "create_sa:netherite_jetpack_chestplate"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
