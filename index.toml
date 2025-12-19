@@ -384,6 +384,16 @@ hash = "0580a44f77a6e88c906bce984b369ca757a0a73062203e9ce1a144544ede9c8a"
 metafile = true
 
 [[files]]
+file = "mods/galosphere-trimming.pw.toml"
+hash = "a5f78dd3563f209bf7a3380b10e7d57150926fb34e5d485910b3cba79bd41bf5"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "40510067d8127e09ff07613527eea218a2d65d028ae529ea569e2da2a962462c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
@@ -501,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "4ab60057dd05713d6b8e390b49c8f3d80c3b80f87054ca1a220d475b314d1e50"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f0c97c0212ddda5c012ba451a123d4b39e89f402cc70d38d31dc9098736ec07f"
 metafile = true
 
 [[files]]
@@ -646,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/starcaller.pw.toml"
 hash = "866052099c81db542fb4781adf8162635a5f925eda11c21d32d24bfbe35f9d04"
+metafile = true
+
+[[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "20a7f56a9144aab837f742f4eeac0036869a4622eae9a2fbb2b90842c89ef43e"
 metafile = true
 
 [[files]]
