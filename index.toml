@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "1cd07d3e727529bf721857b962eb08184f65e89f47112289b5917726f4d57588"
+hash = "56a132b6adc754f4066a206e5fd484b1efe08c3c807c1d84242dcbc0815dd4bd"
 
 [[files]]
 file = "config/natures_spirit-common.toml"
@@ -206,11 +206,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
-metafile = true
-
-[[files]]
-file = "mods/create-deep-dark.pw.toml"
-hash = "90c5a34af2a388c6e1e83500eb6f5d0c77925477ca7b84f68c2c9210ff466517"
 metafile = true
 
 [[files]]
