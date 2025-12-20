@@ -764,11 +764,6 @@ hash = "16964a1c05810854f0c46e1e5442052b8ea262140ab2740afce8d240f6f2ea4f"
 metafile = true
 
 [[files]]
-file = "mods/tameable-foxes.pw.toml"
-hash = "44ca5b8ab1331c21e370989b7f95d7cd5e936729b65a1ccbcef9fbfbda077d14"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
