@@ -39,6 +39,11 @@ hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "f69fb66341fa0ac51d6ab8637efa6f68fa97038169a186975bdaff19d7139fbb"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "c77c7285d6e54bae0c2e226af2b34daee11882d11b58b37648b18aa9835b6a59"
 metafile = true
 
 [[files]]
@@ -279,6 +289,11 @@ hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
 
 [[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "6d3f09ad9769a68ef7e5b45f3bbdf7a6b0aca893a7311a86da0fb42b34ba8f7a"
 metafile = true
@@ -324,6 +339,16 @@ hash = "28f531c7efc9e5257235adcb19913ed278f3bc76a36326f28d9fb9303df9e4de"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "2eb7fc59d71b21b40f4960dd2fd3b12061599098c0a343dd9beee89cb90c39c2"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "ae513cc0ae6e28e70e402bf9a1e5300f991c81b07539e4f7e3aac1e07298eead"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -366,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/extended-ae.pw.toml"
 hash = "cbdc69a1935afa555f3afb930ed515860f0eeac4c459badb7ba3586f409eb696"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
@@ -514,6 +544,11 @@ hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
@@ -536,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
 hash = "067eccf8c3c3f9fd1f3c9657f9ca7dffafdbaaf74e2fdc7623d84e19ee5ea728"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-emi-compat.pw.toml"
+hash = "d4ce41dd8d149e8a53317e26532bf542d82d33c6728d2e259b6155b5dc7f7aa7"
 metafile = true
 
 [[files]]
@@ -564,6 +604,11 @@ hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "238eafec0c25da72e31cefe7723d08c1be7511d23d2f33457f8874ef97b77bef"
 metafile = true
@@ -576,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/lukis-crazy-chambers.pw.toml"
 hash = "dbd3fad054462670862bcd63f418be7fc5579a529be75910a580f80169928aac"
+metafile = true
+
+[[files]]
+file = "mods/luminous-blocks.pw.toml"
+hash = "6dc889e2c5646f0b429f85db02961b2ae28f9f029def39045daf179c02949ef7"
 metafile = true
 
 [[files]]
@@ -596,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "2f6c9613ab64a27f2ba7ab55ed6d7557ffd06dff2d9db7a7e92b2d526e96a466"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
