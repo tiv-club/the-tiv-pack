@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "eb18077ff7778791930eb5817b933cdb0181f14b99c76f6d2d82a308945999a6"
+hash = "08a3d0a0aa3d9266550361c761ca6ffc4ca6204fbb65dbc0a9d2a695b7d0180f"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "946a389729193083c0f937e22f778be1e88f7429bdd25abefb22316af49d7da5"
+hash = "c3b8a20ebb2c6f5809ade820ceb087c0be1ddfc0d99cbb4ec35074513e7cf6d2"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
-hash = "a8631bdf71f2e2f5423a5203b734e340a0f33c76c117067e4c0e5c5ad6775b41"
+hash = "6486106a7390a654715e158a5c59d804b69bf40a28736deb9a4f7742b811da06"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-ae.pw.toml"
-hash = "f46e43c754350f54cee99ea86f7e8409cd28284f3769a5545ddeb777878db146"
+hash = "cbdc69a1935afa555f3afb930ed515860f0eeac4c459badb7ba3586f409eb696"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-jewelry.pw.toml"
-hash = "4518b4f9d39f4e3827ce8828bb27f93e99de69ce77199e0922001f85fad93bb1"
+hash = "b7933bb3d7f4c2d874ffb62c4561f81144c5bc5690698defb868b80761efdc4b"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "4ab60057dd05713d6b8e390b49c8f3d80c3b80f87054ca1a220d475b314d1e50"
+hash = "238eafec0c25da72e31cefe7723d08c1be7511d23d2f33457f8874ef97b77bef"
 metafile = true
 
 [[files]]
