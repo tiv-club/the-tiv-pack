@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnum-torch.pw.toml"
-hash = "f0c97c0212ddda5c012ba451a123d4b39e89f402cc70d38d31dc9098736ec07f"
+hash = "e0eb9856cfbcefd70a853efd4e5ab8deb6a3add9f97f927860ed19b8055f8b88"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "afc8b791ae5751382ecb3715fef8a7a50059cc120c5ae556ed7967a97984a1dd"
+hash = "931292430612e2623b563415285bb8ecffe3e42b61f00a2b0d3e10ea9cbeab5a"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0c0d7d7785e4ceea16c3ed1c9905bdf33532de1e290b147323c079515f2dc04b"
+hash = "1c47bb34ab87f9a5164bf962d5fdf0e0a428a0f8e7482aa57f64ffde03455414"
 metafile = true
 
 [[files]]
