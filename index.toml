@@ -334,11 +334,6 @@ hash = "6486106a7390a654715e158a5c59d804b69bf40a28736deb9a4f7742b811da06"
 metafile = true
 
 [[files]]
-file = "mods/end-remastered-additions.pw.toml"
-hash = "979f5d8d91d92ea9e5d21f4ccc1643734f30a5b7ed44fa2e02b4ca8eb3778783"
-metafile = true
-
-[[files]]
 file = "mods/end-villager-outpost.pw.toml"
 hash = "cd9d0be82833dacb7377aa42604cdcf254bfc0ef6cb4007e564161a6bdbe851f"
 metafile = true
@@ -351,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/enderscape.pw.toml"
 hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
-metafile = true
-
-[[files]]
-file = "mods/endrem.pw.toml"
-hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
 metafile = true
 
 [[files]]
