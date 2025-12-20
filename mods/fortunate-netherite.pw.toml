@@ -1,0 +1,13 @@
+name = "Fortunate Netherite"
+filename = "fortunate_netherite-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "064be8612bb66244b3d5a40d43840f21586a48af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6064732
+project-id = 1145344

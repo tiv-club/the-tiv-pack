@@ -34,6 +34,11 @@ hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
 metafile = true
@@ -179,8 +184,23 @@ hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
+file = "mods/countereds-terrain-slabs.pw.toml"
+hash = "71b51151b67a0b7999f69d0df23bc75b546e5758c2351df45ce55d0f78eab0df"
+metafile = true
+
+[[files]]
 file = "mods/crag.pw.toml"
 hash = "8c652ade823c6226c770a275f94c04b41f0a98a4689ebb226f6edffe29c2648c"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "4520f1b7da2cad5e8c8cf0babfd524b322dc2e8fe1b2d7e7b93c365d1779ea14"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "cde14cb75d4c57a14bf95e93b7a2e0b4f033a51fbbd328c027bd7c2131f43ec4"
 metafile = true
 
 [[files]]
@@ -289,6 +309,11 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "b5bcc5b4df234ed4a4e6a870bc2d7dff74107641d414bb953925b1d949f2df60"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "28f531c7efc9e5257235adcb19913ed278f3bc76a36326f28d9fb9303df9e4de"
 metafile = true
@@ -334,8 +359,18 @@ hash = "77d59ac7bb40c00032d68d45d777e8c1c0dc22596afe0c84572104a67dabb1d5"
 metafile = true
 
 [[files]]
+file = "mods/even-better-nether.pw.toml"
+hash = "8169c8946eaa6d43dff42213a155b6c492d0f9ee44acdf22d9d39f58ad19f489"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
+metafile = true
+
+[[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "f46e43c754350f54cee99ea86f7e8409cd28284f3769a5545ddeb777878db146"
 metafile = true
 
 [[files]]
@@ -361,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
+metafile = true
+
+[[files]]
+file = "mods/fortunate-netherite.pw.toml"
+hash = "9b0a98e0445617a2bf8365da60717c0fa6a7b0bda1c2713d82d89c361e3b0fb7"
 metafile = true
 
 [[files]]
@@ -401,6 +441,21 @@ metafile = true
 [[files]]
 file = "mods/gliders.pw.toml"
 hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
@@ -519,6 +574,16 @@ hash = "4ab60057dd05713d6b8e390b49c8f3d80c3b80f87054ca1a220d475b314d1e50"
 metafile = true
 
 [[files]]
+file = "mods/lukis-ancient-cities.pw.toml"
+hash = "ac34910b0e0549485d26cd305bdc2f65344be377d210c9b06eb7cb8c4b99918c"
+metafile = true
+
+[[files]]
+file = "mods/lukis-crazy-chambers.pw.toml"
+hash = "dbd3fad054462670862bcd63f418be7fc5579a529be75910a580f80169928aac"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "f0c97c0212ddda5c012ba451a123d4b39e89f402cc70d38d31dc9098736ec07f"
 metafile = true
@@ -531,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/morepaths.pw.toml"
 hash = "427c526a1fcd744a5c3aad56fa266928a040754510b4083fcb09cc142cec190f"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "2f6c9613ab64a27f2ba7ab55ed6d7557ffd06dff2d9db7a7e92b2d526e96a466"
 metafile = true
 
 [[files]]
@@ -624,6 +694,16 @@ hash = "e58245f23dc11b1e5e8e3556e251009ac925264cd5b0345a647e337ba4da2af1"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "6709c38d4a6a9f7059661837483fd065d42d2bc9184ff212e0e4b829df9766dc"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "78e3dde88f8a9b30ab337d824238df20c54f1cd283b2c5db8511f827bb9f8e9b"
+metafile = true
+
+[[files]]
 file = "mods/skys-flowers.pw.toml"
 hash = "9cc892e4e3fe1364dab7d749fbce43656475e2453850e3fab81e8486c380d7cf"
 metafile = true
@@ -684,6 +764,11 @@ hash = "16964a1c05810854f0c46e1e5442052b8ea262140ab2740afce8d240f6f2ea4f"
 metafile = true
 
 [[files]]
+file = "mods/tameable-foxes.pw.toml"
+hash = "44ca5b8ab1331c21e370989b7f95d7cd5e936729b65a1ccbcef9fbfbda077d14"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
@@ -691,6 +776,11 @@ metafile = true
 [[files]]
 file = "mods/trimmed.pw.toml"
 hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "54a8a8b3568063847ee35abfccc6c1b5100ebfe9db78aa96eb305cc116332315"
 metafile = true
 
 [[files]]
