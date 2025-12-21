@@ -348,6 +348,11 @@ hash = "28f531c7efc9e5257235adcb19913ed278f3bc76a36326f28d9fb9303df9e4de"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "700fc15c893f25443ecbe46b10a923e31f29620d660925fead1a9341648fdf8d"
+metafile = true
+
+[[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "2eb7fc59d71b21b40f4960dd2fd3b12061599098c0a343dd9beee89cb90c39c2"
 metafile = true
