@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "e42bc39eaf325de705299aa4217f0699eaf527e4c1069a230c558a03469f5227"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "56a132b6adc754f4066a206e5fd484b1efe08c3c807c1d84242dcbc0815dd4bd"
 
@@ -126,6 +130,11 @@ metafile = true
 [[files]]
 file = "mods/bundled_.pw.toml"
 hash = "0ab032a5ecd0385858fe53ea3b6e40304d0edcf68466ce686665de45eba39abb"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
