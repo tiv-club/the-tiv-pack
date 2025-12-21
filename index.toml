@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e42bc39eaf325de705299aa4217f0699eaf527e4c1069a230c558a03469f5227"
+hash = "b9b341da2a330969c9279dea6956a5ee73356a464d1d3d1140e8c47f3b37b11b"
 
 [[files]]
 file = "config/item_obliterator.json5"
