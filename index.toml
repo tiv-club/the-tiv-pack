@@ -53,6 +53,11 @@ hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -85,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "08a3d0a0aa3d9266550361c761ca6ffc4ca6204fbb65dbc0a9d2a695b7d0180f"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
 metafile = true
 
 [[files]]
@@ -285,6 +295,11 @@ metafile = true
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "60d435672eff6b8abf4bd49a34ae9669b063d6ac110e61d5e183905d7fa45e3b"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "92bebed546653fe88370d222662a8c6efed02d3299535c345c19dfac460a11cc"
 metafile = true
 
 [[files]]
@@ -803,6 +818,11 @@ hash = "1c47bb34ab87f9a5164bf962d5fdf0e0a428a0f8e7482aa57f64ffde03455414"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-sorter.pw.toml"
+hash = "d6ffdaa77c1268931084e61a6df498e7eb45813bc0f5db258df84dabee941715"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "d599a1a3cdb3a0ece343aef60f19b52536a11aaaddc1e63c966069d61cee8cf8"
 metafile = true
@@ -845,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
 metafile = true
 
 [[files]]
