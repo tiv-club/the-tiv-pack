@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "pack name pending"
 	#The version of the modpack
-	modpackVersion = "1.0.0@rel"
+	modpackVersion = "1.0.2@rel"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

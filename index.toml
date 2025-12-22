@@ -248,6 +248,11 @@ hash = "a10ca44e38b499dd749e8522b51f16815ddbb60483806a58b0845f179b6b8440"
 metafile = true
 
 [[files]]
+file = "mods/create-crimsite-recipe.pw.toml"
+hash = "ebda6a1212186ecab6d7fe6bbe5335b20caf2327682345ccb3ceac1a5f0d390c"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
 metafile = true
@@ -303,8 +308,23 @@ hash = "92bebed546653fe88370d222662a8c6efed02d3299535c345c19dfac460a11cc"
 metafile = true
 
 [[files]]
+file = "mods/create-ochrum-recipe.pw.toml"
+hash = "99e263541b4f4b001c887839bf057d42e272f17770ed9794e6bb9514a567b1b4"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
+metafile = true
+
+[[files]]
+file = "mods/create-renewable-diamonds.pw.toml"
+hash = "9977a974f7769c4e3179f466b394111196a495912133ece3f30110a3d37f97be"
+metafile = true
+
+[[files]]
+file = "mods/create-stones.pw.toml"
+hash = "5e27d23ab07532da7bb1d9e19ce94fc1f8dad1924b61f980306d3822aeb7cd9c"
 metafile = true
 
 [[files]]
