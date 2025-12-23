@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b9b341da2a330969c9279dea6956a5ee73356a464d1d3d1140e8c47f3b37b11b"
+hash = "9c77ee45e7df4e66355d88d87026811231d1068172fc6f81ee8b2507ce6b7717"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -173,6 +173,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+metafile = true
+
+[[files]]
 file = "mods/colorwheel-patcher.pw.toml"
 hash = "44f9462f2bdb7f3254ef7d7639271159b8b2dd0deffb902d5425e883a38b35ca"
 metafile = true
@@ -183,6 +188,11 @@ hash = "934d5afe2c8d68e991a5e24955c35abde9511a466ab62b34485363ad3f4dc43b"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
@@ -190,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "aa242da373359065cb62d8e1094e2f17b456f3ea300db145896cf6c6aae43101"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -723,6 +738,11 @@ hash = "6ace43d76e69d8c9b2aea3748d896ae9d4d484d786b503daa2a4f9a40e5cc7b4"
 metafile = true
 
 [[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "e48323d394418af426fa5bf31910e9a182734a6350a4f1c521bc4cb2733be4db"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -780,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "5c40b97cbeb3afcb2d0e9831f0e5d6e8503fd92f05193f25d84718f3b06f0f57"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
@@ -895,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
 metafile = true
 
 [[files]]
