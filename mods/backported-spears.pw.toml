@@ -1,13 +1,13 @@
 name = "Backported Spears"
-filename = "spear-backport-fabric-1.4.2.jar"
+filename = "spear-backport-neoforge-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rVUtrHuM/versions/vdpN0o1O/spear-backport-fabric-1.4.2.jar"
+url = "https://cdn.modrinth.com/data/rVUtrHuM/versions/kcF69CE4/spear-backport-neoforge-1.6.1.jar"
 hash-format = "sha512"
-hash = "439de11f29a0887854eb7c090b87a955e6818654c241428a8939d554e9b2f729f6d05d5cfbf534936c380f36d40d236234321ba17760bf8974e9df3938f8f1ae"
+hash = "76ab135f01b1d4f58a498a99b0e9c35892c11742a0da99df062e8de74910e969eb61b8cf69bf74a5b8a6c1359bf2d57d9dc5f2319b229e5449999c30e4109969"
 
 [update]
 [update.modrinth]
 mod-id = "rVUtrHuM"
-version = "vdpN0o1O"
+version = "kcF69CE4"
